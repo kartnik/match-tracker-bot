@@ -1,0 +1,14 @@
+# Логи
+matches_log.csv
+
+# Секреты
+.env
+
+# Бинарники
+*.exe
+*.out
+
+# IDE и ОС
+.vscode/
+.idea/
+.DS_Stor
